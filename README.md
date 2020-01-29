@@ -1,4 +1,4 @@
-# MiniPerfTest
+# MiniProfTest
 Testing MiniProfiler
 
 
